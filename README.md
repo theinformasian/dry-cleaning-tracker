@@ -5,5 +5,5 @@
 some practice with inputs and buttons, helping me keep track of my dry cleaning orders along the way
 
 ## Activity Log
-started in codepen at 19:41 05/04/19\s\s
-imported to github at 20:40\s\s
+started in codepen at 19:41 05/04/19 <br>
+imported to github at 20:40 <br>
